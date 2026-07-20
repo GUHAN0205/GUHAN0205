@@ -239,7 +239,7 @@ Inter-College Handball Competition
 <h2 align="center">📊 Developer Metrics</h2>
 
 <p align="center">
-<img src="https://github.com/GUHAN0205/GUHAN0205/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
+  <img src="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/github-metrics.svg" alt="Developer Metrics"/>
 </p>
 
 <h2 align="center">🎯 Current Focus</h2>
