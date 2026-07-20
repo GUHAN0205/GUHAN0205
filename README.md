@@ -242,19 +242,6 @@ Inter-College Handball Competition
   <img src="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/github-metrics.svg" alt="Developer Metrics"/>
 </p>
 
-<h2 align="center">🎯 Current Focus</h2>
-
-<div align="center">
-
-| 🚀 Building | 📚 Learning | 🎯 Goal |
-|:-----------:|:-----------:|:-------:|
-| AI Applications | Spring Boot | Software Engineer |
-| Full Stack Apps | System Design | Apple 🍎 |
-| IoT Solutions | Cloud Computing | Open Source |
-
-</div>
-<div align="center">
-
 ## 🚀 Thanks for Visiting!
 
 > *"The best way to predict the future is to build it."*
