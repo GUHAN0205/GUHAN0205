@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GUHAN0205/GUHAN0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="guhan0205.png" width="100%" alt="Guhan Banner"/>
 
-Here are some ideas to get you started:
+# 👋 Hi, I'm Guhan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software Engineer | AI Enthusiast | Full Stack Developer
+
+*"Building intelligent software that solves real-world challenges."*
+
+</div>
+
+---
