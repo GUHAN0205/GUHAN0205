@@ -62,5 +62,166 @@ public class Guhan {
 | 🛠️ **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /> |
 
 </div>
+<h2 align="center">🚀 Innovation Lab</h2>
+
+<p align="center">
+<i>Turning innovative ideas into intelligent software solutions.</i>
+</p>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🌱 Pest Detective AI Agent</h3>
+
+An AI-powered agricultural assistant that detects crop diseases from plant images and provides intelligent treatment recommendations using computer vision and machine learning.
+
+**⚙️ Tech Stack**
+
+`Python` `React` `Node.js` `Artificial Intelligence`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎮 GameSense AI Agent</h3>
+
+An intelligent gaming assistant that delivers gameplay insights, strategy recommendations, and personalized gaming experiences powered by AI.
+
+**⚙️ Tech Stack**
+
+`React` `JavaScript` `Artificial Intelligence`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>💧 Wearable Skin Moisture Monitoring System</h3>
+
+An IoT-based wearable solution that continuously monitors skin moisture levels using embedded sensors for real-time healthcare applications.
+
+**⚙️ Tech Stack**
+
+`Arduino` `ESP32` `Internet of Things`
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>✨ More Innovations Coming Soon</h3>
+
+Exploring new opportunities in Artificial Intelligence, Full Stack Development, IoT, and Software Engineering to build impactful real-world solutions.
+
+</td>
+
+</tr>
+
+</table>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GUHAN0205&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=GUHAN0205&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GUHAN0205&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GUHAN0205&theme=tokyonight" />
+</p>
+
+<h2 align="center">🏆 Achievements & Certifications</h2>
+
+<p align="center">
+<i>Recognitions, internships, and certifications that reflect my continuous learning journey and commitment to excellence.</i>
+</p>
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💼 Internships
+
+- 🤖 **Basics of Arduino Programming**  
+  *Internshala*  
+  📅 One Month Virtual Internship
+
+- 🧠 **Artificial Intelligence**  
+  *Infosys Springboard*  
+  📅 One Month Virtual Internship
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📜 Certifications
+
+- 🗄️ **Database Management and SQL**  
+  *Infosys Springboard*
+
+- ☕ **Java Foundation**  
+  *Scalar Academy*
+
+- ☕ **Java Foundation**  
+  *GUVI*
+
+- ✨ **Principles of Generative AI**  
+  *Infosys Springboard*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏅 Achievements
+
+🥇 **First Prize**  
+Science Olympiad Foundation Examination  
+*Inter-School Level Competition*
+
+<br>
+
+🥇 **First Prize**  
+Inter-College Handball Competition
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 Professional Growth
+
+- 🌱 Continuously exploring **Artificial Intelligence**, **Full Stack Development**, and **Internet of Things (IoT)**.
+
+- 💻 Actively improving problem-solving skills through **Java**, **SQL**, and **Data Structures & Algorithms**.
+
+- 📚 Passionate about building intelligent solutions for real-world challenges.
+
+</td>
+
+</tr>
+
+</table>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+<i>Watch my contribution graph come alive!</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 > **Blueprint Status:** 🟢 Designing intelligent software solutions with AI, Full Stack Development, and IoT.
