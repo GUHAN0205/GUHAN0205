@@ -2,7 +2,7 @@
 
 <img src="guhan0205.png" width="100%" alt="Guhan Banner"/>
 
-# 👋 Hi, I'm Guhan
+# 👋 Hi, I'm Guhan Thangarasu
 
 ### Software Engineer | AI Enthusiast | Full Stack Developer
 
