@@ -216,12 +216,50 @@ Inter-College Handball Competition
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-<i>Watch my contribution graph come alive!</i>
+  <img src="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+<a href="https://www.linkedin.com/in/guhan-t-554726314/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:trmanoguhan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/GUHAN0205">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
+<h2 align="center">📊 Developer Metrics</h2>
 
-> **Blueprint Status:** 🟢 Designing intelligent software solutions with AI, Full Stack Development, and IoT.
+<p align="center">
+<img src="https://github.com/GUHAN0205/GUHAN0205/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
+</p>
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<div align="center">
+
+| 🚀 Building | 📚 Learning | 🎯 Goal |
+|:-----------:|:-----------:|:-------:|
+| AI Applications | Spring Boot | Software Engineer |
+| Full Stack Apps | System Design | Apple 🍎 |
+| IoT Solutions | Cloud Computing | Open Source |
+
+</div>
+<div align="center">
+
+## 🚀 Thanks for Visiting!
+
+> *"The best way to predict the future is to build it."*
+
+⭐ If you like my work, feel free to explore my repositories and connect with me.
+
+</div>
+</p>> **Blueprint Status:** 🟢 Designing intelligent software solutions with AI, Full Stack Development, and IoT.
