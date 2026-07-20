@@ -123,6 +123,11 @@ Exploring new opportunities in Artificial Intelligence, Full Stack Development, 
 </tr>
 
 </table>
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
@@ -213,11 +218,7 @@ Inter-College Handball Competition
 
 </table>
 
-<h2 align="center">🐍 Contribution Snake</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
@@ -236,11 +237,36 @@ Inter-College Handball Competition
 
 </p>
 
-<h2 align="center">📊 Developer Metrics</h2>
+<h2 align="center">🧬 Developer DNA</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/github-metrics.svg" alt="Developer Metrics"/>
-</p>
+<table align="center">
+
+<tr>
+<td>🧠 Think</td>
+<td>Analytical & Logical</td>
+</tr>
+
+<tr>
+<td>💻 Build</td>
+<td>Scalable Applications</td>
+</tr>
+
+<tr>
+<td>🤖 Explore</td>
+<td>Artificial Intelligence</td>
+</tr>
+
+<tr>
+<td>🌱 Learn</td>
+<td>Every Single Day</td>
+</tr>
+
+<tr>
+<td>🚀 Goal</td>
+<td>Build Technology That Matters</td>
+</tr>
+
+</table>
 
 ## 🚀 Thanks for Visiting!
 
