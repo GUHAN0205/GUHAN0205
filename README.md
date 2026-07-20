@@ -34,12 +34,11 @@ public class Guhan {
     String[] currentlyBuilding = {
         "Pest Detective AI Agent",
         "GameSense AI Agent",
-        "AI Quality Inspection Platform",
         "Wearable Skin Moisture Monitoring System"
     };
 
     String mission =
-        "Build technology that creates real-world impact.";
+        Transform ideas into intelligent digital solutions.";
 
 }
 ```
