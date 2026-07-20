@@ -42,3 +42,23 @@ public class Guhan {
 
 }
 ```
+
+---
+
+# ⚡ Technology Arsenal
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+
+### Database
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,arduino" />
+
+</div>
