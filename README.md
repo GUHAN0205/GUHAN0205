@@ -45,20 +45,22 @@ public class Guhan {
 
 ---
 
-# ⚡ Technology Arsenal
+---
+
+# 📐 Technology Blueprint
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-
-### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
-
-### Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,arduino" />
+| 🏗️ Blueprint Module | ⚙️ Technologies |
+|:-------------------|:----------------|
+| ☕ **Programming** | <img src="https://skillicons.dev/icons?i=java,python,javascript" /> |
+| 🎨 **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,react" /> |
+| 🖥️ **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
+| 🗄️ **Database** | <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> |
+| 🤖 **Artificial Intelligence** | <img src="https://skillicons.dev/icons?i=python" /> &nbsp; OpenCV |
+| 🌐 **Internet of Things** | <img src="https://skillicons.dev/icons?i=arduino" /> &nbsp; ESP32 • Sensors |
+| 🛠️ **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /> |
 
 </div>
+
+> **Blueprint Status:** 🟢 Designing intelligent software solutions with AI, Full Stack Development, and IoT.
