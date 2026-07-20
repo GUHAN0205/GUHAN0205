@@ -12,3 +12,34 @@
 
 ---
 
+## 💻 Developer Profile
+
+```java
+public class Guhan {
+
+    String role = "Software Engineer";
+
+    String education =
+        "B.E. Electronics & Communication Engineering";
+
+    String location = "Tamil Nadu, India";
+
+    String[] specialization = {
+        "Artificial Intelligence",
+        "Full Stack Development",
+        "Internet of Things",
+        "UI/UX Design"
+    };
+
+    String[] currentlyBuilding = {
+        "Pest Detective AI Agent",
+        "GameSense AI Agent",
+        "AI Quality Inspection Platform",
+        "Wearable Skin Moisture Monitoring System"
+    };
+
+    String mission =
+        "Build technology that creates real-world impact.";
+
+}
+```
