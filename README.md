@@ -62,7 +62,9 @@ public class Guhan {
 | 🛠️ **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" /> |
 
 </div>
-<h2 align="center">👾 Pac-Man Contribution Graph</h2>
+<p align="center">
+<i>"The best software isn't written overnight—it is refined one thoughtful commit at a time."</i>
+</p>
 
 <p align="center">
   <picture>
@@ -81,7 +83,7 @@ public class Guhan {
 <table>
 
 <tr>
-
+<h2 align="center">🚀 Innovation Lab</h2>
 <td width="50%" valign="top">
 
 <h3>🌱 Pest Detective AI Agent</h3>
@@ -141,7 +143,7 @@ Exploring new opportunities in Artificial Intelligence, Full Stack Development, 
 <table>
 
 <tr>
-
+<h2 align="center">🏆 Achievements & Certifications</h2>
 <td width="50%" valign="top">
 
 ### 💼 Internships
