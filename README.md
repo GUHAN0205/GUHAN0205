@@ -123,13 +123,6 @@ Exploring new opportunities in Artificial Intelligence, Full Stack Development, 
 </tr>
 
 </table>
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
-
-<h2 align="center">🏆 Achievements & Certifications</h2>
 
 <p align="center">
 <i>Recognitions, internships, and certifications that reflect my continuous learning journey and commitment to excellence.</i>
