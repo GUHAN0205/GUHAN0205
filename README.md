@@ -129,20 +129,6 @@ Exploring new opportunities in Artificial Intelligence, Full Stack Development, 
   <img src="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
 
-<<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-<img width="48%"
-src="https://github-readme-stats.vercel.app/api?username=GUHAN0205&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%"
-src="https://github-profile-trophy.vercel.app/?username=GUHAN0205&theme=tokyonight&no-frame=true&row=1&column=3"/>
-</p>
-
-<p align="center">
-<img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=GUHAN0205&theme=tokyo-night&hide_border=true"/>
-</p>
 <h2 align="center">🏆 Achievements & Certifications</h2>
 
 <p align="center">
