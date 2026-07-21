@@ -65,12 +65,17 @@ public class Guhan {
 <h2 align="center">👾 Pac-Man Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph" />
-</p>
-<h2 align="center">🚀 Innovation Lab</h2>
-
-<p align="center">
-<i>Turning innovative ideas into intelligent software solutions.</i>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/pacman-contribution-graph.svg">
+    <img
+      alt="Pac-Man Contribution Graph"
+      src="https://raw.githubusercontent.com/GUHAN0205/GUHAN0205/output/pacman-contribution-graph-dark.svg">
+  </picture>
 </p>
 
 <table>
